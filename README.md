@@ -1,6 +1,6 @@
 <-> 👋 Hi, I’m @KnTrickster, a brazilian student that wanna work with programming
 <p>
-<-> 👀 I’m interested in
+<-> 👀 I’m interested in learn programming languages because I always were trying to make something that I could call a REALLY AMAZING thing that a guy like me have done  
   </p>
   <p>
 <-> 🌱 I’m currently learning HTML and CSS (I'm beginning)
